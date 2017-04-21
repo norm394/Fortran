@@ -1,0 +1,6 @@
+Cash Register
+
+Fortran 90
+
+A simple "cash register" program that keeps a running subtotal of the item prices added. When finished, calculates tax, 
+and displays the final total amount due.
